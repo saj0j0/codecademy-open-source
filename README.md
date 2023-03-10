@@ -1,3 +1,3 @@
 codecademy-open-source
 
-Just smile :)
+Saya suka makan tempe!
