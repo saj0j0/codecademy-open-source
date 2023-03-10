@@ -1,3 +1,3 @@
 codecademy-open-source
 
-Saya suka makan tempe!
+**Saya suka makan tempe!**
